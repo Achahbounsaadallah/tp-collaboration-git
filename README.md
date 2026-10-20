@@ -1,1 +1,1 @@
-Bienvenue dans le projet de l'etudiant A.
+new version of readme A
